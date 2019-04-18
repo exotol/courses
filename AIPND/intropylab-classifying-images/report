@@ -1,0 +1,56 @@
+** Result summary for CNN model:  ALEXNET
+                      N images:  40
+                  N dog images:  30
+       N of "Not-a" Dog Images:  10
+                % Correct Dogs: 100.0
+               % Correct Breed:  80.0
+         % Correct "Not-a" Dog: 100.0
+Match (optional - this includes both dogs and not-a dog):  75.0
+INCORRECT breed Assignment
+Real beagle                     Classifier english foxhound              
+Real beagle                     Classifier walker hound, walker foxhound 
+Real boston terrier             Classifier basenji                       
+Real golden retriever           Classifier tibetan mastiff               
+Real golden retriever           Classifier afghan hound, afghan          
+Real great pyrenees             Classifier kuvasz                        
+
+** Total Elapsed Runtime:  3.7022175788879395  in seconds
+
+** Total Elapsed Runtime:  0:0:3
+=========================================================================
+Match (optional - this includes both dogs and not-a dog):  82.5
+** Result summary for CNN model:  RESNET
+                      N images:  40
+                  N dog images:  30
+       N of "Not-a" Dog Images:  10
+                % Correct Dogs: 100.0
+               % Correct Breed:  90.0
+         % Correct "Not-a" Dog:  90.0
+Match (optional - this includes both dogs and not-a dog):  82.5
+INCORRECT Dog/Not Dog Assignment
+The pet image and classifier labels for misclassified dogs
+Real cat                        Classifier norwegian elkhound, elkhound
+INCORRECT breed Assignment
+Real beagle                     Classifier walker hound, walker foxhound
+Real golden retriever           Classifier leonberg
+Real great pyrenees             Classifier kuvasz
+
+** Total Elapsed Runtime:  9.108784198760986  in seconds
+
+** Total Elapsed Runtime:  0:0:9
+========================================================================
+** Result summary for CNN model:  VGG
+                      N images:  40
+                  N dog images:  30
+       N of "Not-a" Dog Images:  10
+                % Correct Dogs: 100.0
+               % Correct Breed:  93.3
+         % Correct "Not-a" Dog: 100.0
+Match (optional - this includes both dogs and not-a dog):  87.5
+INCORRECT breed Assignment
+Real beagle                     Classifier walker hound, walker foxhound
+Real great pyrenees             Classifier kuvasz
+
+** Total Elapsed Runtime:  41.27154874801636  in seconds
+
+** Total Elapsed Runtime:  0:0:41
