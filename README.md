@@ -11,6 +11,6 @@ DL, значит, нужно учить
 
 
 Пройденные курсы:
-  * (AIPND|https://eu.udacity.com/course/ai-programming-python-nanodegree--nd089)
+  * [AIPND](https://eu.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
 
