@@ -11,6 +11,10 @@ DL, значит, нужно учить
 
 
 Пройденные курсы:
+ML & DL
   * [AIPND](https://eu.udacity.com/course/ai-programming-python-nanodegree--nd089)
+  
+MATH
+  * [CM2104 Computational Mathematics](http://users.cs.cf.ac.uk/Dave.Marshall/CM2104/)
 
 
